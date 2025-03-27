@@ -1,4 +1,4 @@
-insert into pages(test_number, text) values (1, 'a'),
+insert into test(test_number, text) values (1, 'a'),
                                             (1, 'a'),
                                             (1, 'a'),
                                             (1, 'a'),
